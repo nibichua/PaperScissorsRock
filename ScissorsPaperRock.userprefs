@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MyTimer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MyTimer.cs" Line="16" Column="2" />
+      <File FileName="Assets\Scripts\HandControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelectOnInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuitOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadSceneOnClick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Restart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
